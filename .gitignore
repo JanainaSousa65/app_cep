@@ -34,3 +34,10 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+node_modules/
+android/app/build/
+ios/Pods/
+*.log
+.env
+
